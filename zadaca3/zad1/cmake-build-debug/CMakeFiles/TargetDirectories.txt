@@ -1,0 +1,3 @@
+C:/Users/frant/Desktop/Fakultet/2. godina/3D racunalna grafika/zadaca3/zad1/cmake-build-debug/CMakeFiles/zad1.dir
+C:/Users/frant/Desktop/Fakultet/2. godina/3D racunalna grafika/zadaca3/zad1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frant/Desktop/Fakultet/2. godina/3D racunalna grafika/zadaca3/zad1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

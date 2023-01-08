@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/frant/Desktop/Fakultet/2. godina/3D racunalna grafika/zadaca3/zad1/main.cpp
+iostream
+-
+cmath
+-
+tgaimage.h
+C:/Users/frant/Desktop/Fakultet/2. godina/3D racunalna grafika/zadaca3/zad1/tgaimage.h
+
+C:/Users/frant/Desktop/Fakultet/2. godina/3D racunalna grafika/zadaca3/zad1/tgaimage.h
+fstream
+-
+
